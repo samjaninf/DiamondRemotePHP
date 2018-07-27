@@ -1,0 +1,8 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
